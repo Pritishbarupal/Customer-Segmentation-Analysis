@@ -220,4 +220,5 @@ These insights can help businesses:
 
 B.Tech, Metallurgical & Materials Engineering  
 National Institute of Technology Raipur
-Data Analytics | Business Intelligence
+
+
